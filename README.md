@@ -1,6 +1,3 @@
-# piyush-471
-Portfolio repository showcasing skills, tech stack, achievements, and featured projects.
-<!-- Banner (replace BANNER_URL with your own image link) -->
 <p align="center">
   <img src="BANNER_URL" alt="Piyush Gupta Banner" />
 </p>
